@@ -66,9 +66,7 @@ LICENSE                         # MIT
 
 ## Citation
 
-If you use this code or its results, please cite it as:
-
-> Müftüoğlu, T. D. (2026). *Rain-gauge density and point-to-areal rainfall representativeness: analysis code* (Version 1.0) [Computer software]. Zenodo. https://doi.org/ZENODO_DOI
+If you use this code or its results, please cite itç
 
 A `CITATION.cff` file is included, so GitHub's "Cite this repository" button gives the same reference. The journal reference of the accompanying article will be added here once it is published.
 
