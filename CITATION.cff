@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Rain-gauge density and point-to-areal rainfall representativeness: analysis code"
+type: software
+authors:
+  - family-names: "Müftüoğlu"
+    given-names: "Tevfik Denizhan"
+version: "1.2"
+date-released: "2026-11-09"
+license: MIT
+keywords:
+  - rain gauge network
+  - areal rainfall
+  - representativeness error
+  - conformal prediction
+  - FIFE
+  - Walnut Gulch
